@@ -24,6 +24,7 @@ david.setfullname('David Do');
 david.setemail('david.do@gmail.com')
 // console.log(david.tostring())
 // console.log(david.getemail())
+console.log(david.tostring()) 
 let truong = new staff('truong', 'truong@gmail.com');
 let anh = new staff('anh', 'anh@gmail.com')
 let staffs = [david, truong, anh];
